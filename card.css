@@ -20,7 +20,7 @@ background-color: #dedcdc;
 /* Header Styles */
 header {
 background: transparent;
-color: white;
+color: rgb(99, 81, 81);
 padding: 10px;
 text-align: center;
 font-size: 24px;
@@ -182,7 +182,7 @@ font-size: larger;
 /* Footer Styles */
 footer {
 background: transparent;
-color: white;
+color:rgb(60, 51, 51);
 padding: 10px;
 text-align: center;
 font-size: 24px;
